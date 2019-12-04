@@ -1,0 +1,25 @@
+{
+  "name": "foundation",
+  "version": "1.0.0",
+  "description": "Lovable Design - Foundation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "keywords": [
+    "design",
+    "system",
+    "ui",
+    "ux",
+    "lovable",
+    "guidelines",
+    "interface",
+    "experience"
+  ],
+  "author": "Hugo Nogueira <hugomn@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "3.7.3"
+  }
+}
