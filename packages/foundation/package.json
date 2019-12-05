@@ -2,8 +2,11 @@
   "name": "foundation",
   "version": "1.0.0",
   "description": "Lovable Design - Foundation",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
+    "build": "tsc",
+    "prepublish": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1",
     "tsc": "tsc"
   },
