@@ -6,6 +6,8 @@ const DefaultTheme: Foundation = {
     // primaryDarker: string;
     // primaryDark: string;
     primary: "#5E77FF",
+    primaryTextColor: "#FFFFFF",
+
     // primaryLight: string;
     // primaryLighter: string;
     // primaryLightest: string;
@@ -14,6 +16,7 @@ const DefaultTheme: Foundation = {
     // secondaryDarker: string;
     // secondaryDark: string;
     secondary: "#7BC3BD",
+    secondaryTextColor: "#000000",
     // secondaryLight: string;
     // secondaryLighter: string;
     // secondaryLightest: string;

@@ -7,6 +7,10 @@ export interface Color {
   primaryLighter?: string;
   primaryLightest?: string;
 
+  // Text on primary
+  primaryTextColor: string;
+  secondaryTextColor: string;
+
   // Secondary colors
   secondaryDarker?: string;
   secondaryDark?: string;
@@ -29,6 +33,7 @@ export interface Color {
   statusInfo?: string;
   statusSuccess?: string;
   statusWarning?: string;
+
 }
 
 export default interface Foundation { 
